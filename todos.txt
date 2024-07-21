@@ -1,2 +1,4 @@
 run
 walk
+gym
+count calories
